@@ -1,7 +1,7 @@
 {
   "name": "marketing-agent-kit",
   "description": "Marketplace for the marketing-kit plugin: multi-agent funnel and marketing content workflows.",
-  "owner": { "name": "ceichmueller" },
+  "owner": { "name": "MakeNative" },
   "plugins": [
     {
       "name": "marketing-kit",
