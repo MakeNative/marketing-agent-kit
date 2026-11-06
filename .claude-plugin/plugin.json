@@ -1,7 +1,7 @@
 {
   "name": "marketing-kit",
-  "description": "Multi-agent marketing content kit: funnel planner, content creator and quality-gate reviewers (conversion, copy, headline) plus the funnel workflow for high-converting website funnels.",
-  "version": "0.2.0",
+  "description": "Multi-agent marketing content kit: funnel planner, content creator and quality-gate reviewers (conversion, copy, headline) with the funnel workflow, plus a content department of nine agents from planning to publish preparation, headless or through the content workflow.",
+  "version": "0.3.0",
   "author": { "name": "ceichmueller" },
   "license": "MIT"
 }

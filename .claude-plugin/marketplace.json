@@ -1,12 +1,12 @@
 {
   "name": "marketing-agent-kit",
-  "description": "Marketplace for the marketing-kit plugin: multi-agent funnel and marketing content workflows.",
+  "description": "Marketplace for the marketing-kit plugin: multi-agent funnel, content department and marketing workflows.",
   "owner": { "name": "MakeNative" },
   "plugins": [
     {
       "name": "marketing-kit",
       "source": "./",
-      "description": "Multi-agent marketing content kit: funnel planner, content creator and quality-gate reviewers.",
+      "description": "Multi-agent marketing content kit: funnel workflow with quality-gate reviewers and a content department from planning to publish preparation.",
       "author": { "name": "ceichmueller" }
     }
   ]
