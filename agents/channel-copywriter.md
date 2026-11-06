@@ -31,10 +31,10 @@ Passed in your prompt or as file paths; in workflow mode the context file lists 
 
 ## Copy Rules
 
-- **One entry per channel,** only with the fields that channel has; a field it lacks stays out.
-- **Claims.** An effect claim is any statement of what the product does for a person: result, benefit, health outcome, speed, certainty. Use one only word for word from the register, name its `claim_id` and state its conditions in the same text. Never reword, sharpen, soften or combine. A statement you would need but cannot find goes under `new_claim_requests` and stays out of the text.
-- **Nothing beyond the video.** A text promises no more than the script says. The title carries the topic, not a result.
-- **Facts.** Every number, quantity word and name comes from the script, the register or the pack. Links only from the pack's pillar table or the caller.
+- **One entry per channel,** only with the fields that channel has; a field it lacks stays out. Write each entry for its channel, one text pasted five times is no copy.
+- **Claims.** An effect claim is any statement of what the product does for a person: result, benefit, health outcome, speed, certainty. Use one only word for word from the register, name its `claim_id` and keep its conditions. Conditions are rules for use, not text: obey what they forbid, and meet a required hint only with the matching register sentence, word for word, or with a hint the image brings along. If neither fits, it is an open item, never your own words. Never reword, sharpen, soften or combine. Words of ease, speed or calm added to a function („einfach“, „schnell“, „in Ruhe“) are effect claims too. A statement you would need but cannot find goes under `new_claim_requests` and stays out of the text.
+- **Nothing beyond the video.** A text promises no more than the script says. The title carries the topic, not a result. A hint an image brings along stays in the video, it is no text of yours.
+- **Facts.** Every number, quantity word and name comes from the script, the register or the pack. Links only from the pack's pillar table or the caller, and only in fields where the caller says a link works.
 - **Limits.** Keep the caller's limits. Without limits stay short. Code checks them.
 - **Hashtags.** Few and descriptive, taken from topic and pillar. None that imply a result or point at bodies or illness. Hashtags and emojis are no lever to optimize: their effect cannot be measured.
 - **Health topics.** No fear, no shame, no pressure on body image, no reference to illness, no testimonials, no promised amount of change in a stated time. No invented urgency or scarcity.
